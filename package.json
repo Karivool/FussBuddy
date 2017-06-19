@@ -1,0 +1,14 @@
+{
+  "name": "Fuss Buddy",
+  "version": "1.0.0",
+  "description": "A bot that'll listen to you complain - forever.",
+  "scripts": {},
+  "author": "Pizza Lady",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "redux": "^3.7.0",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {}
+}
