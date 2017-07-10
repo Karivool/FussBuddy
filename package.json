@@ -1,11 +1,13 @@
 {
-  "name": "Fuss Buddy",
+  "name": "FussBuddy",
   "version": "1.0.0",
-  "description": "A bot that'll listen to you complain - forever.",
+  "description": "A bot that'll listen to you complain forever.",
   "scripts": {},
   "author": "Pizza Lady",
   "license": "MIT",
   "dependencies": {
+    "hot": "0.0.7",
+    "loader": "^2.1.1",
     "react": "^15.6.1",
     "redux": "^3.7.0",
     "webpack": "^2.6.1"
