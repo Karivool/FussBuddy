@@ -1,24 +1,30 @@
-# README
+# FussBuddy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[FussBuddy live][heroku]
 
-Things you may want to cover:
+[heroku]: https://fussbuddy.herokuapp.com/
+(currently not live)
 
-* Ruby version
+FussBuddy is a chat app you can complain to when you've chased away all your friends, family, goldfish and strangers away with your incessant problems.
 
-* System dependencies
+Created with:
+* Ruby on Rails
+* PostgreSQL
+* React.js
+* Redux
 
-* Configuration
+## Features & Implementation
 
-* Database creation
+TODO
 
-* Database initialization
+### Navigation
 
-* How to run the test suite
+TODO
 
-* Services (job queues, cache servers, search engines, etc.)
+### Messaging
 
-* Deployment instructions
+TODO
 
-* ...
+## Future Directions for the Project
+
+TODO
